@@ -1,0 +1,3 @@
+--insert into student(rollno,name,marks) values(101, 'Avinv', 98);
+--insert into student(rollno,name,marks) values(102, 'Rahul', 89);
+--insert into student(rollno,name,marks) values(103, 'Aakash', 78);
