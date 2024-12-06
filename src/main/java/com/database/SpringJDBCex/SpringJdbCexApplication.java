@@ -17,9 +17,6 @@ public class SpringJdbCexApplication {
 		s.setRollNo(106);
 		s.setName("Aakash");
 		s.setMarks(78);
-
-
-
 		StudentService service=context.getBean(StudentService.class);
 		service.addStudents(s);
 
